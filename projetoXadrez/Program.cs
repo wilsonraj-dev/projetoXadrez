@@ -2,18 +2,20 @@
 using tabuleiro;
 using xadrez;
 
-namespace projetoXadrez
+namespace xadrez
 {
     class Program
     {
         static void Main(string[] args)
         {
+
             try
             {
                 PartidaDeXadrez partida = new PartidaDeXadrez();
 
                 while (!partida.terminada)
                 {
+
                     try
                     {
                         Console.Clear();
@@ -25,6 +27,7 @@ namespace projetoXadrez
                         partida.validarPosicaoDeOrigem(origem);
 
                         bool[,] posicoesPossiveis = partida.tab.peca(origem).movimentosPossiveis();
+
                         Console.Clear();
                         Tela.imprimirTabuleiro(partida.tab, posicoesPossiveis);
 
@@ -41,11 +44,14 @@ namespace projetoXadrez
                         Console.ReadLine();
                     }
                 }
+                Console.Clear();
+                Tela.imprimirPartida(partida);
             }
             catch (TabuleiroException e)
             {
                 Console.WriteLine(e.Message);
             }
+
             Console.ReadLine();
         }
     }

@@ -98,7 +98,6 @@ namespace xadrez
                         mat[posicao.linha, posicao.coluna + 2] = true;
                     }
                 }
-
                 // #jogadaespecial roque grande
                 Posicao posT2 = new Posicao(posicao.linha, posicao.coluna - 4);
                 if (testeTorreParaRoque(posT2))

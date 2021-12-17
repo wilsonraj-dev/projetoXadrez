@@ -1,15 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace tabuleiro
+﻿namespace tabuleiro
 {
     class Tabuleiro
     {
+
         public int linhas { get; set; }
-
         public int colunas { get; set; }
-
         private Peca[,] pecas;
 
         public Tabuleiro(int linhas, int colunas)
@@ -47,7 +42,7 @@ namespace tabuleiro
 
         public Peca retirarPeca(Posicao pos)
         {
-            if(peca(pos) == null)
+            if (peca(pos) == null)
             {
                 return null;
             }
@@ -60,15 +55,18 @@ namespace tabuleiro
         public bool posicaoValida(Posicao pos)
         {
             if (pos.linha < 0 || pos.linha >= linhas || pos.coluna < 0 || pos.coluna >= colunas)
+            {
                 return false;
-            else
-                return true;
+            }
+            return true;
         }
 
         public void validarPosicao(Posicao pos)
         {
             if (!posicaoValida(pos))
+            {
                 throw new TabuleiroException("Posição inválida!");
+            }
         }
     }
 }

@@ -2,6 +2,7 @@
 {
     abstract class Peca
     {
+
         public Posicao posicao { get; set; }
         public Cor cor { get; protected set; }
         public int qteMovimentos { get; protected set; }
@@ -15,12 +16,12 @@
             this.qteMovimentos = 0;
         }
 
-        public void incrementarQtdeMovimentos()
+        public void incrementarQteMovimentos()
         {
             qteMovimentos++;
         }
 
-        public void decrementarQtdeMovimentos()
+        public void decrementarQteMovimentos()
         {
             qteMovimentos--;
         }
@@ -33,7 +34,9 @@
                 for (int j = 0; j < tab.colunas; j++)
                 {
                     if (mat[i, j])
+                    {
                         return true;
+                    }
                 }
             }
             return false;
