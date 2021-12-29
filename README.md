@@ -6,6 +6,6 @@
 <div>
   <h3> Imagem inicial do tabuleiro do jogo ao iniciar uma partida</h4>
   <div>
-    <img align="right" alt="JogoInicial" height="340" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/925547231040401418/JogoInicial.png"
+    <img position="relative" alt="JogoInicial" height="340" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/925547231040401418/JogoInicial.png"
   </div>
 </div>
