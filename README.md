@@ -29,5 +29,5 @@
     <img align="center" alt="EnPassant" height="340" width="500" src="https://cdn.discordapp.com/attachments/758866002968182795/925551304212906064/El_Passant.gif">
   </div>
 </div>
-  <br></br>
+  <br>
 ### Essas são algumas funcionalidades desse projeto, espero que tenham gostado. Caso se interessem, podem clonar o projeto para também se divertirem jogando um pouco de Xadrez. Obrigado a todos. 
