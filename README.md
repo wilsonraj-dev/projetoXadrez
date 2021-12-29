@@ -9,9 +9,9 @@
     <img align="center" alt="JogoInicial" height="340" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/925547231040401418/JogoInicial.png">
   </div>
     <br></br>
-  <div>>
+  <div>
     <h3> ° Jogando até o Xeque-Mate</h3>
-    <img align="center" alt="Partida" src="https://cdn.discordapp.com/attachments/758866002968182795/925549792040480908/Ganhando_o_jogo.gif">
+    <img align="center" alt="Partida" height="340" width="300" src="https://cdn.discordapp.com/attachments/758866002968182795/925549792040480908/Ganhando_o_jogo.gif">
   </div>
   
    
