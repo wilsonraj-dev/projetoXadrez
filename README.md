@@ -16,7 +16,7 @@
     <br></br>
   <div>
     <h3> ° Jogada especial Roque Pequeno</h3>
-    <img align="center" alt="RoquePequeno" height="340" width="500" src="https://cdn.discordapp.com/attachments/758866002968182795/925549792040480908/Ganhando_o_jogo.gif">
+    <img align="center" alt="RoquePequeno" height="340" width="500" src="https://cdn.discordapp.com/attachments/758866002968182795/925553055460630538/RoquePequeno.gif">
   </div>
     <br></br>
   <div>
