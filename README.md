@@ -30,4 +30,4 @@
   </div>
 </div>
 
-## Essas são algumas funcionalidades desse projeto, espero que tenham gostado. Caso se interessem, podem clonar o projeto para também se divertirem jogando um pouco de Xadrez. Obrigado a todos. 
+### Essas são algumas funcionalidades desse projeto, espero que tenham gostado. Caso se interessem, podem clonar o projeto para também se divertirem jogando um pouco de Xadrez. Obrigado a todos. 
