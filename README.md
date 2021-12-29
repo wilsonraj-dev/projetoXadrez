@@ -13,6 +13,19 @@
     <h3> ° Jogando até o Xeque-Mate</h3>
     <img align="center" alt="Partida" height="340" width="600" src="https://cdn.discordapp.com/attachments/758866002968182795/925549792040480908/Ganhando_o_jogo.gif">
   </div>
-  
-   
+    <br></br>
+  <div>
+    <h3> ° Jogada especial Roque Pequeno</h3>
+    <img align="center" alt="RoquePequeno" height="340" width="600" src="https://cdn.discordapp.com/attachments/758866002968182795/925549792040480908/Ganhando_o_jogo.gif">
+  </div>
+    <br></br>
+  <div>
+    <h3> ° Jogada especial Roque Grande</h3>
+    <img align="center" alt="RoqueGrande" height="340" width="600" src="https://cdn.discordapp.com/attachments/758866002968182795/925550999333118013/RoqueGrande.gif">
+  </div>
+    <br></br>
+  <div>
+    <h3> ° Jogada especial En-Passant</h3>
+    <img align="center" alt="EnPassant" height="340" width="600" src="https://cdn.discordapp.com/attachments/758866002968182795/925551304212906064/El_Passant.gif">
+  </div>
 </div>
