@@ -11,7 +11,7 @@
     <br></br>
   <div>
     <h3> ° Jogando até o Xeque-Mate</h3>
-    <img align="center" alt="Partida" height="340" width="500" src="https://cdn.discordapp.com/attachments/758866002968182795/925549792040480908/Ganhando_o_jogo.gif">
+    <img align="center" alt="Partida" height="340" width="500" src="https://cdn.discordapp.com/attachments/758866002968182795/925554946957508638/GanhandoOJogo.gif">
   </div>
     <br></br>
   <div>
